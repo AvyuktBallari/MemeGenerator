@@ -1,4 +1,3 @@
-```
 # Meme Generator
 
 A simple command-line meme generator written in Go. This is my first project learning Go. It fetches an image from a URL, overlays text on it, and saves the result as `out.png`.
