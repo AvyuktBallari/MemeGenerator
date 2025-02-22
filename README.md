@@ -15,12 +15,12 @@ Make sure you have Go installed. If not, download and install it from [Go's offi
 ### Clone the Repository
 ```sh
 git clone https://github.com/AvyuktBallari/MemeGenerator.git
-cd meme-generator
+cd MemeGenerator
 ```
 
 ### Install Dependencies
 ```sh
-go mod init meme-generator
+go mod init MemeGenerator
 go get github.com/fogleman/gg
 ```
 
